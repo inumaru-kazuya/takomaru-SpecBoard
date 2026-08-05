@@ -175,7 +175,7 @@
         const transformed = src
           .replace(/^\s*export\s+default\s+App\s*;?\s*$/m, "window.App = App;")
           .replace(/^\s*export\s+(function|const|let|var|class)\s+/gm, "$1 ");
-        const code = Babel.transform(transformed, { presets: ["env", "react"] }).code;
+        const code = Babel.transform(transformed, { presets: ["env", ["react", { runtime: "classic" }]] }).code;
         // eslint-disable-next-line no-new-func
         new Function(code)();
         if (typeof window.App !== "function") {
