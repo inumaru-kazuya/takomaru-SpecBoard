@@ -4566,7 +4566,7 @@ export function DashboardView({ onNavigate }) {
           <span className="text-[11px] text-ink-soft">住宅会社探しに役立つサービス</span>
         </div>
         <div className="flex flex-wrap justify-center gap-6">
-          <div className="flex flex-col items-center gap-2 w-[350px] max-w-full">
+          <div className="flex flex-col items-center gap-2 w-[260px] max-w-full">
             <p className="text-xs text-ink-soft text-center">
               気になる工務店を無料で一括資料請求できます
             </p>
@@ -4577,7 +4577,7 @@ export function DashboardView({ onNavigate }) {
             </a>
             <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BA0XD+6NXRVU+2ISC+60OXD" alt="" style={{ position: "absolute" }} />
           </div>
-          <div className="flex flex-col items-center gap-2 w-[300px] max-w-full">
+          <div className="flex flex-col items-center gap-2 w-[260px] max-w-full">
             <p className="text-xs text-ink-soft text-center">
               新築マンション・一戸建てをご購入の方へ。SUUMOアンケートにご協力ください
             </p>
@@ -4588,7 +4588,7 @@ export function DashboardView({ onNavigate }) {
             </a>
             <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4BA1PB+728436+136+1BSOG1" alt="" style={{ position: "absolute" }} />
           </div>
-          <div className="flex flex-col items-center gap-2 w-[350px] max-w-full">
+          <div className="flex flex-col items-center gap-2 w-[260px] max-w-full">
             <p className="text-xs text-ink-soft text-center">
               高速インターネット回線のNTTフレッツ光【キャッシュバック最大7万円】
             </p>
@@ -4599,7 +4599,7 @@ export function DashboardView({ onNavigate }) {
             </a>
             <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BA4TC+4RHMA+1MWA+2ZHT9T" alt="" style={{ position: "absolute" }} />
           </div>
-          <div className="flex flex-col items-center gap-2 w-[300px] max-w-full">
+          <div className="flex flex-col items-center gap-2 w-[260px] max-w-full">
             <p className="text-xs text-ink-soft text-center">
               日々の暮らしに彩りを、おしゃれで高級感のある家具【CAGUUU（カグー）】
             </p>
