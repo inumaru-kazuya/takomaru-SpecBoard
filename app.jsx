@@ -4588,6 +4588,17 @@ export function DashboardView({ onNavigate }) {
             </a>
             <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4BA1PB+728436+136+1BSOG1" alt="" style={{ position: "absolute" }} />
           </div>
+          <div className="flex flex-col items-center gap-2 w-[350px] max-w-full">
+            <p className="text-xs text-ink-soft text-center">
+              高速インターネット回線のNTTフレッツ光【キャッシュバック最大7万円】
+            </p>
+            <a href="https://px.a8.net/svt/ejp?a8mat=4BA4TC+4RHMA+1MWA+2ZHT9T" target="_blank" rel="noopener nofollow">
+              <img border="0" width="350" height="160"
+                alt=""
+                src="https://www28.a8.net/svt/bgt?aid=260813280008&wid=001&eno=01&mid=s00000007633018055000&mc=1" />
+            </a>
+            <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BA4TC+4RHMA+1MWA+2ZHT9T" alt="" style={{ position: "absolute" }} />
+          </div>
         </div>
       </section>
     </div>
